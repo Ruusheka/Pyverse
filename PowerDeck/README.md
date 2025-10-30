@@ -2,7 +2,7 @@
 
 > A sleek, dark-themed Python desktop application that lets you **Restart, Log Out, or Shut Down** your system with a single click.
 
-![PowerDeck Banner](https://github.com/yourusername/pyverse/assets/yourimageid/powerdeck-banner.png)
+![PowerDeck Banner](https://github.com/Ruusheka/Pyverse/blob/main/PowerDeck/demo.png)
 
 ---
 
@@ -45,4 +45,4 @@ It features a clean **card-style layout**, **rounded square buttons**, and **hov
    cd pyverse/powerdeck
 2. **Run the App**
    ```bash
-   python shutdown_app.py
+   python demo.py
